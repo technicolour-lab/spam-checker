@@ -34,7 +34,7 @@ A real-time email spam checker that helps you avoid spam filters before you hit 
 
 ```bash
 # Clone the repository
-git clone https://github.com/automated-lab/spam-checker.git
+git clone https://github.com/technicolour-lab/spam-checker.git
 cd spam-checker
 
 # Install dependencies
@@ -103,7 +103,7 @@ Run `npm run test:run` to ensure your changes don't break existing tests.
 
 Deploy easily on Vercel:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/automated-lab/spam-checker)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/technicolour-lab/spam-checker)
 
 ## License
 

@@ -140,7 +140,7 @@ export function SpamChecker() {
               </div>
             </div>
             <a
-              href="https://github.com/automated-lab/spam-checker"
+              href="https://github.com/technicolour-lab/spam-checker"
               target="_blank"
               rel="noopener noreferrer"
               className="text-foreground hover:opacity-70 transition-opacity"
@@ -372,7 +372,7 @@ export function SpamChecker() {
       <footer className="border-t border-border bg-card py-6">
         <div className="mx-auto max-w-5xl px-4 text-center sm:px-6 lg:px-8">
           <p className="text-sm text-muted-foreground">
-            <a href="https://github.com/automated-lab/spam-checker/issues" className="text-foreground/70 hover:text-foreground underline underline-offset-2">
+            <a href="https://github.com/technicolour-lab/spam-checker/issues" className="text-foreground/70 hover:text-foreground underline underline-offset-2">
               Always around if you need me
             </a>
             <span className="mx-2">·</span>
